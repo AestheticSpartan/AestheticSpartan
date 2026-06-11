@@ -31,6 +31,9 @@
   <a href="https://top.gg/bot/1354018504470298624">
     <img src="https://top.gg/api/widget/1354018504470298624.svg" alt="TackleBot on Top.gg">
   </a>
+  <a href="https://top.gg/bot/1513254131886850229">
+  <img src="https://top.gg/api/widget/1513254131886850229.svg">
+  </a>
 </p>
 
 <!---
